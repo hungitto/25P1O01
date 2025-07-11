@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 """
-Author: Nick Russo
 Purpose: Collects and saves ARP table details from each distribution
 device into a single CSV file for archival. Currently requires a
 reservation and VPN connection into the new DevNet NSO sandbox.

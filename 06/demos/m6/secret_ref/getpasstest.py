@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 """
-Author: Nick Russo
 Purpose: Illustrates the usage of getpass for interactive
 password collection, then prints the password.
 """

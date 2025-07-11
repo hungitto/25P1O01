@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 """
-Author: Nick Russo
 Purpose: Basic consumption of Cisco NSO REST API using the
 public Cisco DevNet sandbox (requires reservation). Assuming a
 netsim network already exists, this adds a new loopback
